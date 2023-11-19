@@ -41,4 +41,4 @@ async def workout(ctx, goal: str):
     else:
         await ctx.send("Please specify either 'lose_weight' or 'strength' as your goal.")
 
-bot.run('MTE3NTUwNzQ3ODI5Mzc4NjY3NQ.G798qC.4_zxIzW300-AXoKOMiujKnrC4K8n2LKimOrQRY')
+bot.run('YourTokenHere')
