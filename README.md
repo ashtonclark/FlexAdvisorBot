@@ -1,5 +1,5 @@
 # Inspiration
-FlexAdvisor was inspired by our collective interest in fitness and the desire to provide users with personalized workout routines. The goal was to make exercise accessible and enjoyable for individuals with different fitness focuses, such as strength or weight-loss.
+FlexAdvisor was inspired by our collective interest in fitness and the desire to provide users with week-long workout routines. The goal was to make exercise accessible and enjoyable for individuals with different fitness focuses, such as strength or weight-loss.
 
 # What it does
 FlexAdvisor is a Discord bot designed to provide week-long workout routines based on user preferences, focusing on either strength or weight-loss. 
